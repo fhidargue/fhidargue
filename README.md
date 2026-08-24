@@ -44,35 +44,38 @@ With several years of experience in software development, I’m a software engin
 ## 💻 Programming & Engineering
 
 <p align="center">
-  <!-- Programming Languages -->
+  <!-- Languages & Core Technologies -->
   <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-2563EB?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-2563EB?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-2563EB?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-2563EB?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-2563EB?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel%20TBB-2563EB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel%20TBB-2563EB?style=for-the-badge" />
 </p>
-
 <p align="center">
-  <!-- Web & Application Development -->
-  <img src="https://img.shields.io/badge/Node.js-2563EB?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <!-- Adobe & Web Platforms -->
+  <img src="https://img.shields.io/badge/Magento%202-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adobe%20Experience%20Manager-2563EB?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Campaign%20Standard-2563EB?style=for-the-badge&logo=adobe&logoColor=white" />
   <img src="https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-2563EB?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+</p>
+<p align="center">
+  <!-- Backend & Enterprise -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-2563EB?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-2563EB?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge&logo=icloud&logoColor=white" />
+</p>
+<p align="center">
+  <!-- Data -->
   <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-2563EB?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-
-<p align="center">
-  <!-- Graphics & Systems -->
-  <img src="https://img.shields.io/badge/OpenGL-2563EB?style=for-the-badge&logo=opengl&logoColor=white" />
-  <img src="https://img.shields.io/badge/GLSL-2563EB?style=for-the-badge&logo=opengl&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebGL-2563EB?style=for-the-badge&logo=webgl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel%20TBB-2563EB?style=for-the-badge&logoColor=white" />
-</p>
-
 <p align="center">
   <!-- Cloud & Infrastructure -->
   <img src="https://img.shields.io/badge/AWS-2563EB?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -82,13 +85,42 @@ With several years of experience in software development, I’m a software engin
   <img src="https://img.shields.io/badge/Podman-2563EB?style=for-the-badge&logo=podman&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
-
 <p align="center">
   <!-- Development Tools -->
   <img src="https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Perforce-2563EB?style=for-the-badge&logo=perforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-2563EB?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/PySide6-2563EB?style=for-the-badge&logo=qt&logoColor=white" />
+</p>
+<p align="center">
+  <!-- Build & Package Management -->
+  <img src="https://img.shields.io/badge/Maven-2563EB?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-2563EB?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-2563EB?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
+<p align="center">
+  <!-- Testing -->
+  <img src="https://img.shields.io/badge/JUnit-2563EB?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jtest-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pytest-2563EB?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoogleTest-2563EB?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-2563EB?style=for-the-badge&logo=jest&logoColor=white" />
+</p>
+<p align="center">
+  <!-- Data -->
+  <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-2563EB?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-2563EB?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+<p align="center">
+  <!-- APIs -->
+  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-2563EB?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-2563EB?style=for-the-badge&logo=swagger&logoColor=white" />
+</p>
+<p align="center">
+  <!-- Infrastructure -->
+  <img src="https://img.shields.io/badge/Terraform-2563EB?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
 ## 🎨 Rendering & Graphics

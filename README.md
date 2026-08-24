@@ -3,7 +3,7 @@
 <html width="100%" height="100%">
 <header>
   <img src="images/material-variants.png" width="100%">
-  <h1 align="center">Felipe Hidalgo</h1>
+  <h1 align="center">Felipe Hidalgo Árguedas</h1>
 
 <p align="center">
   <strong>Pipeline TD · Senior Software Engineer · Rendering Engineer</strong>
@@ -220,6 +220,9 @@ With several years of experience in software development, I’m a software engin
 <p align="center">
   <i>Building tools, solving problems, and exploring where software engineering meets computer graphics.</i>
 </p>
+<div align="center">
+  <a href="https://www.bournemouth.ac.uk/about/our-faculties/faculty-media-communication/national-centre-computer-animation" target="_blank"><img src="./images/ncca.png" width="20%"/></a>
+</div>
 </body>
 
 </html>
